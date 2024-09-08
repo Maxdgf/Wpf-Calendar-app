@@ -5,6 +5,6 @@ My first application on wpf. In this application, you can read the date and othe
 
 <h1>Requirements:</h1>
  NuGet packages:
-  <h2>Notification.wpf</h2> <a href="https://github.com/Platonenkov/Notification.Wpf">https://github.com/Platonenkov/Notification.Wpf</a>
+  <h2>Notification.wpf</h2> <a href="https://github.com/Platonenkov/Notification.Wpf">https://github.com/Platonenkov/Notification.Wpfh</a>
 
   <h2>System.Data.SQLite</h2>
