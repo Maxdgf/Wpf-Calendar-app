@@ -8,3 +8,8 @@ My first application on wpf. In this application, you can read the date and othe
   <h2>Notification.wpf</h2> <a href="https://github.com/Platonenkov/Notification.Wpf">https://github.com/Platonenkov/Notification.Wpf</a>
 
   <h2>System.Data.SQLite</h2>
+
+
+![](screenImage1.png)
+
+![](screenImage2.png)
